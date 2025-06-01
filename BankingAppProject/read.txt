@@ -1,0 +1,5 @@
+To compile and run the program use this:
+
+javac -cp ".;lib/*" BankingApp.java
+
+java -cp ".;lib/*" BankingApp
