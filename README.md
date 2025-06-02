@@ -10,8 +10,8 @@ A simple Java-based banking application that connects to an MS Access database (
 - Reads from and writes to the MS Access database
 
 ## Files
-- `src/BankingApp.java` - Main source code
-- `database/BankingDB.accdb` - Access database file
+- `BankingApp.java` - Main source code
+- `BankingDB.accdb` - Access database file
 - `read.txt` - Instructions or notes
 
 ## Requirements
