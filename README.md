@@ -21,3 +21,9 @@ A simple Java-based banking application that connects to an MS Access database (
 ## Run Instructions
 For detailed steps to compile and run the application, please refer to `read.txt`.
 
+## What I learned
+- Designing a user-friendly Java Swing interface for banking operations.  
+- Establishing reliable JDBC connections with MS Access to log transactions.  
+- Handling concurrent account updates and ensuring data consistency during deposits, withdrawals, and transfers.  
+- Implementing predefined account management with persistent transaction history.  
+- Managing external dependencies and troubleshooting database connectivity issues.
