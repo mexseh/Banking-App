@@ -1,4 +1,4 @@
-# Banking Application
+# JavaBanker
 
 A simple Java-based banking application that connects to an MS Access database (`.accdb`).
 
